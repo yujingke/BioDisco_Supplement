@@ -1,0 +1,41 @@
+score,P1,P2,P1_win,P2_win,Tie
+novelty,Single LLM,Multi-agent,8,86,6
+novelty,Single LLM,Multi+Refine,0,100,0
+novelty,Single LLM,Multi+Tools,1,99,0
+novelty,Single LLM,BioDisco,0,100,0
+novelty,Multi-agent,Multi+Refine,10,89,1
+novelty,Multi-agent,Multi+Tools,6,94,0
+novelty,Multi-agent,BioDisco,1,99,0
+novelty,Multi+Refine,Multi+Tools,56,44,0
+novelty,Multi+Refine,BioDisco,6,93,1
+novelty,Multi+Tools,BioDisco,13,85,2
+relevance,Single LLM,Multi-agent,4,2,94
+relevance,Single LLM,Multi+Refine,33,1,66
+relevance,Single LLM,Multi+Tools,4,1,95
+relevance,Single LLM,BioDisco,24,4,72
+relevance,Multi-agent,Multi+Refine,19,1,80
+relevance,Multi-agent,Multi+Tools,0,0,100
+relevance,Multi-agent,BioDisco,12,2,86
+relevance,Multi+Refine,Multi+Tools,2,7,91
+relevance,Multi+Refine,BioDisco,4,3,93
+relevance,Multi+Tools,BioDisco,14,3,83
+significance,Single LLM,Multi-agent,9,79,12
+significance,Single LLM,Multi+Refine,6,84,10
+significance,Single LLM,Multi+Tools,2,98,0
+significance,Single LLM,BioDisco,1,99,0
+significance,Multi-agent,Multi+Refine,11,60,29
+significance,Multi-agent,Multi+Tools,3,90,7
+significance,Multi-agent,BioDisco,4,94,2
+significance,Multi+Refine,Multi+Tools,29,64,7
+significance,Multi+Refine,BioDisco,5,90,5
+significance,Multi+Tools,BioDisco,17,69,14
+verifiability,Single LLM,Multi-agent,22,15,63
+verifiability,Single LLM,Multi+Refine,51,3,46
+verifiability,Single LLM,Multi+Tools,63,9,28
+verifiability,Single LLM,BioDisco,57,26,17
+verifiability,Multi-agent,Multi+Refine,66,1,33
+verifiability,Multi-agent,Multi+Tools,57,5,38
+verifiability,Multi-agent,BioDisco,40,31,29
+verifiability,Multi+Refine,Multi+Tools,38,30,32
+verifiability,Multi+Refine,BioDisco,52,31,17
+verifiability,Multi+Tools,BioDisco,40,42,18

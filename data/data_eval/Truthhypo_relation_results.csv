@@ -1,0 +1,300 @@
+Chemical urolithin B;Gene p65: negative_correlate
+Chemical baricitinib;Gene NF-kappaB: negative_correlate
+Chemical baricitinib;Gene Akt: negative_correlate
+Chemical baricitinib;Gene mTOR: negative_correlate
+Chemical baricitinib;Gene NF-kappaB: negative_correlate
+Chemical baricitinib;Gene PI3K: negative_correlate
+Chemical MCC950;Gene GFAP: negative_correlate
+Chemical brigatinib;Gene MATE1: negative_correlate
+Chemical 11H-indeno[1,2-b]quinoxalin-11-one oxime;Gene JNK: negative_correlate
+Chemical tenapanor;Gene TRPV1: negative_correlate
+Chemical imidazo[2,1-b]thiazole;Gene EGFR: negative_correlate
+Chemical corynoxine;Gene Akt: negative_correlate
+Chemical sappanone A;Gene IL-17: negative_correlate
+Chemical sappanone A;Gene p65: negative_correlate
+Chemical LY2409881;Gene NF-kappaB: negative_correlate
+Chemical fremanezumab;Gene calcitonin receptor-like receptor: negative_correlate
+Chemical erdafitinib;Gene PD-L1: negative_correlate
+Chemical erdafitinib;Gene STAT3: negative_correlate
+Chemical lipofermata;Gene SLC27A2: positive_correlate
+Chemical HFPO-DA;Gene amh: negative_correlate
+Chemical HFPO-DA;Gene sox9a: negative_correlate
+Chemical lecanemab;Gene fibrinogen: negative_correlate
+Chemical kongensin A;Gene Akt: negative_correlate
+Chemical upadacitinib;Gene PD-1: negative_correlate
+Chemical GNE-140;Gene LDHA: negative_correlate
+Chemical brensocatib;Gene cathepsin C: negative_correlate
+Chemical avacopan;Gene myeloperoxidase: negative_correlate
+Chemical tezepelumab;Gene KLK11: positive_correlate
+Chemical pyrotinib;Gene HER2: negative_correlate
+Chemical echinatin;Gene IL-1beta: negative_correlate
+Chemical echinatin;Gene IL-6,negative_correlate
+Chemical echinatin;Gene NF-kappaB,negative_correlate
+Chemical anlotinib;Gene PI3K,negative_correlate
+Chemical atuveciclib;Gene IFN-gamma,negative_correlate
+Chemical C188-9;Gene MYC,negative_correlate
+Chemical MLN2480;Gene BRAF,negative_correlate
+Chemical N-phenylpyrrolamides;Gene topoisomerase II,negative_correlate
+Chemical deucravacitinib;Gene IL-19,negative_correlate
+Chemical ravulizumab;Gene AQP4,positive_correlate
+Chemical esketamine;Gene JNK,negative_correlate
+Chemical PLX5622;Gene NLRP3,negative_correlate
+Chemical PLX5622;Gene mTOR,negative_correlate
+Chemical sintilimab;Gene CEA,negative_correlate
+Chemical abrocitinib;Gene JAK1,negative_correlate
+Chemical emapalumab;Gene fibrinogen,positive_correlate
+Chemical selpercatinib;Gene CCDC6,positive_correlate
+Chemical osocimab;Gene FXI,negative_correlate
+Chemical AZD7648;Gene CFTR,positive_correlate
+Chemical BMS-202;Gene Akt,negative_correlate
+Chemical Yoda1;Gene TGF-beta,negative_correlate
+Chemical HFPO-DA;Gene vtg1,negative_correlate
+Chemical PT2399;Gene BMAL1,negative_correlate
+Chemical esketamine;Gene Akt,positive_correlate
+Chemical seladelpar;Gene PPAR,positive_correlate
+Chemical AB680;Gene CD4,positive_correlate
+Chemical DDQ;Gene MAP2,positive_correlate
+Chemical maackiain;Gene p53,positive_correlate
+Chemical parthenolide;Gene NeuN,positive_correlate
+Chemical parthenolide;Gene mTOR,negative_correlate
+Chemical coumermycin;Gene JAK2,positive_correlate
+Chemical fulvic acid;Gene cytochrome c,positive_correlate
+Chemical naringenin;Gene occludin,positive_correlate
+Chemical naringenin;Gene ZO-1,positive_correlate
+Chemical alpha-pinene;Gene GLUT4,positive_correlate
+Chemical astaxanthin;Gene MFN2,positive_correlate
+Chemical baicalein;Gene SLC7A11,positive_correlate
+Chemical deoxynivalenol;Gene caspase-12,positive_correlate
+Chemical deoxynivalenol;Gene NCOA4,positive_correlate
+Chemical deoxynivalenol;Gene catalase,positive_correlate
+Chemical DEP;Gene ACE2,positive_correlate
+Chemical gallein;Gene IL-6,positive_correlate
+Chemical gallein;Gene OPG,positive_correlate
+Chemical geraniol;Gene occludin,positive_correlate
+Chemical pristane;Gene Egr1,positive_correlate
+Chemical pristane;Gene CD141,positive_correlate
+Chemical zebularine;Gene cGAS,positive_correlate
+Chemical salidroside;Gene GFAP,positive_correlate
+Chemical salidroside;Gene GPX4,positive_correlate
+Chemical salidroside;Gene DCX,positive_correlate
+Chemical sinomenine;Gene HO-1,positive_correlate
+Chemical trichostatin A;Gene HMGB1,positive_correlate
+Chemical hesperetin;Gene Parkin,positive_correlate
+Chemical hesperetin;Gene PINK1,positive_correlate
+Chemical P4;Gene SF-1,positive_correlate
+Chemical CpG;Gene IL-6,positive_correlate
+Chemical CpG;Gene TNF-alpha,positive_correlate
+Chemical CpG;Gene CD8,positive_correlate
+Chemical dimethyldioctadecylammonium bromide;Gene IL-17,positive_correlate
+Chemical asiatic acid;Gene GPX4,positive_correlate
+Chemical sodium arsenite;Gene RAGE,positive_correlate
+Chemical tetramethylpyrazine;Gene GPX4,positive_correlate
+Chemical carnosic acid;Gene AMPK,positive_correlate
+Chemical trimethylamine;Gene IL-1beta,positive_correlate
+Chemical fucoxanthin;Gene GSK-3beta,negative_correlate
+Chemical diacerein;Gene Nrf2,positive_correlate
+Chemical NaH;Gene peroxidase,positive_correlate
+Chemical crocin;Gene SOX2,positive_correlate
+Chemical IAA;Gene IL-10,positive_correlate
+Chemical artemisinin;Gene Nrf2,positive_correlate
+Chemical artemisinin;Gene GPX4,positive_correlate
+Gene catalase,inhibit
+Gene PSMC1,inhibit
+Gene SHOC2,inhibit
+Gene Parkin,stimulate
+Gene SOD3,inhibit
+Gene FGF18,inhibit
+Gene dynamin 1,inhibit
+Gene SNX13,stimulate
+Gene CTSH,inhibit
+Gene thrombomodulin,inhibit
+Gene AlkB,inhibit
+Gene PRDM16,inhibit
+Gene Igkv4-91,stimulate
+Gene GRIM-19,inhibit
+Gene CD45,stimulate
+Gene CD28,inhibit
+Gene CTSV,stimulate
+Gene HNF4A-AS1,inhibit
+Gene SLC6A13,inhibit
+Gene SLC19A1,stimulate
+Gene IFT88,inhibit
+Gene KCNT1,inhibit
+Gene UBR1,stimulate
+Gene DGAT1,inhibit
+Gene AEN,inhibit
+Gene SP8,inhibit
+Gene NRN1,inhibit
+Gene RPL41,inhibit
+Gene Igkv4-91,inhibit
+Gene ADRA2A,inhibit
+Gene GLP-1,inhibit
+Gene BTKi,inhibit
+Gene IL-2,stimulate
+Gene NLRC5,stimulate
+Gene CAR,inhibit
+Gene GLP-1,inhibit
+Gene CAR T,inhibit
+Gene Bmal1,inhibit
+Gene ALKBH5,inhibit
+Gene CAR,inhibit
+Gene STC2,inhibit
+Gene MAO-B,inhibit
+Gene Cx43,inhibit
+Gene CBFbeta,stimulate
+Gene RUNX3,inhibit
+Gene PTX3,stimulate
+Gene GALNT9,inhibit
+Gene FTH1,inhibit
+Gene NPY2R,inhibit
+Gene MIR181A2HG,inhibit
+Gene KIM-1,inhibit
+Gene MMP-12,stimulate
+Gene NfL,stimulate
+Gene prostasin,inhibit
+Gene renin,stimulate
+Gene RANK,stimulate
+Gene DR5,stimulate
+Gene DR4,inhibit
+Gene ALK1,stimulate
+Gene SNAP-25,stimulate
+Gene LC3B,stimulate
+Gene Iba1,stimulate
+Gene CX3CL1,stimulate
+Gene PTX3,stimulate
+Gene IL-1beta,inhibit
+Gene CCL5,stimulate
+Gene GPRC5D,stimulate
+Gene MCP-1,stimulate
+Gene IRF6,stimulate
+Gene ARL2,stimulate
+Gene S100A13,stimulate
+Gene ISG15,stimulate
+Gene leptin,stimulate
+Gene resistin,stimulate
+Gene IL-8,inhibit
+Gene TPX2,stimulate
+Gene GLP-1,stimulate
+Gene OIP5-AS1,inhibit
+Gene CD25,stimulate
+Gene TSG-6,stimulate
+Gene SMC1A,stimulate
+Gene CXCL10,stimulate
+Gene RPL7A,stimulate
+Gene RPL11,stimulate
+Gene RPL31,stimulate
+Gene ETV3,stimulate
+Gene CBFB,stimulate
+Gene TSSK6,stimulate
+Gene RIPK3,stimulate
+Gene carbapenemase,inhibit
+Gene ntn1b,stimulate
+Gene BAFF,stimulate
+Gene C-reactive protein,stimulate
+Gene CD38,stimulate
+Gene METTL3,stimulate
+Gene GPR39,stimulate
+Gene resistin,stimulate
+Gene HADHA,stimulate
+Gene KRTCAP2,stimulate
+Gene IL-10R,stimulate
+Gene Galpha13;Gene fibronectin,negative_correlate
+Gene Galpha13;Gene TGF-beta,positive_correlate
+Gene Galpha13;Gene TGFBR1,positive_correlate
+Gene Galpha13;Gene TGFBR2,positive_correlate
+Gene corin;Gene CoREST,negative_correlate
+Gene UBE2C;Gene CD4,negative_correlate
+Gene PTPRT;Gene PD-1,negative_correlate
+Gene chromogranin A;Gene F13B,negative_correlate
+Gene LINC00152;Gene FTH1,negative_correlate
+Gene LINC00152;Gene PDE4D,positive_correlate
+Gene NLRP3;Gene PPARdelta,negative_correlate
+Gene cGAS;Gene ORF48,negative_correlate
+Gene PARP;Gene granzyme B,negative_correlate
+Gene albumin;Gene WHAMM,negative_correlate
+Gene Astn1;Gene Astn2,negative_correlate
+Gene Bax;Gene adropin,negative_correlate
+Gene BCKDK;Gene BT2,negative_correlate
+Gene AK7;Gene SIRT2,negative_correlate
+Gene caspase-3;Gene RTEL1,negative_correlate
+Gene caspase-3;Gene adropin,negative_correlate
+Gene COL1A1;Gene IL-15,positive_correlate
+Gene ACBP;Gene Lcn2,negative_correlate
+Gene CREM;Gene VDR,negative_correlate
+Gene Foxq1;Gene IL-6,negative_correlate
+Gene Foxq1;Gene TNF-alpha,negative_correlate
+Gene Irg1;Gene NLRP3,negative_correlate
+Gene JAK2;Gene TREM2,negative_correlate
+Gene EBNA;Gene IL-27,negative_correlate
+Gene EBNA;Gene IL-4,negative_correlate
+Gene EBNA;Gene IL-10,negative_correlate
+Gene EBNA;Gene IL-15,negative_correlate
+Gene EBNA;Gene IL-21,negative_correlate
+Gene EBNA;Gene STAT3,positive_correlate
+Gene EBNA;Gene STAT5,negative_correlate
+Gene DNA2;Gene USP50,positive_correlate
+Gene peroxiredoxin;Gene FLP-2,negative_correlate
+Gene FSHR-1;Gene unc-10,positive_correlate
+Gene FLP-2;Gene prdx-2,negative_correlate
+Gene PDGFRbeta;Gene IL-33,negative_correlate
+Gene UBR1;Gene NEDD4L,negative_correlate
+Gene UBR1;Gene ACE2,negative_correlate
+Gene Sim2;Gene VDAC1,negative_correlate
+Gene alpha-synuclein;Gene proSAAS,negative_correlate
+Gene Akt;Gene NMI,negative_correlate
+Gene IRE1;Gene PSAT1,negative_correlate
+Gene IRE1;Gene SHMT1,positive_correlate
+Gene ERbeta;Gene NMI,negative_correlate
+Gene FBP1;Gene TERT,negative_correlate
+Gene TP53;Gene CDK12,positive_correlate
+Gene CD16;Gene KRT17,positive_correlate
+Gene YAP;Gene GPX4,positive_correlate
+Gene CEBPD;Gene PD-L1,positive_correlate
+Gene BATF;Gene PD-L1,positive_correlate
+Gene IGF2BP3;Gene fibronectin,positive_correlate
+Gene FtsH;Gene Akt,positive_correlate
+Gene FtsH;Gene p70S6K,positive_correlate
+Gene PGC-1alpha;Gene ASCL1,positive_correlate
+Gene Fdps;Gene TEAD1,positive_correlate
+Gene NRG1;Gene YAP,positive_correlate
+Gene LINC00152;Gene ANLN,positive_correlate
+Gene LINC00152;Gene RRM2,positive_correlate
+Gene LINC00152;Gene TRPC1,positive_correlate
+Gene C5aR;Gene Akt,positive_correlate
+Gene NLRP3;Gene CXCL10,positive_correlate
+Gene MIR155HG;Gene PD-L1,positive_correlate
+Gene ADAM10;Gene BDNF,positive_correlate
+Gene atrogin-1;Gene PI3K,positive_correlate
+Gene cGAS;Gene OMA1,positive_correlate
+Gene OMA1;Gene STING,positive_correlate
+Gene AEBP1;Gene PI3K,positive_correlate
+Gene PACAP;Gene VGAT,positive_correlate
+Gene Atg5;Gene PI3K,positive_correlate
+Gene CCR5;Gene G-CSF,positive_correlate
+Gene CCR7;Gene TRAC,positive_correlate
+Gene CBFbeta;Gene YAP,positive_correlate
+Gene N-cadherin;Gene YAP,positive_correlate
+Gene SWSAP1;Gene RPA,positive_correlate
+Gene CPEB;Gene PLK1,positive_correlate
+Gene CLP;Gene TNF-alpha,positive_correlate
+Gene A2AR;Gene CD38,positive_correlate
+Gene CPT1A;Gene TRIM2,positive_correlate
+Gene CREB;Gene MASP,positive_correlate
+Gene FUNDC1;Gene FBXL2,positive_correlate
+Gene p38;Gene granzyme B,positive_correlate
+Gene beta-catenin;Gene NSUN5,positive_correlate
+Gene beta-catenin;Gene USP10,positive_correlate
+Gene cathepsin K;Gene RUFY4,positive_correlate
+Gene FOXA1;Gene RARgamma,positive_correlate
+Gene IFN-beta;Gene S100A14,positive_correlate
+Gene PPTC7;Gene BNIP3L,negative_correlate
+Gene IL-13;Gene Y1R,positive_correlate
+Gene CD25;Gene CD226,negative_correlate
+Gene Irg1;Gene TLR7,negative_correlate
+Gene TF;Gene YY1,negative_correlate
+Gene AP-1;Gene LRP1,positive_correlate
+Gene DDX3X;Gene PD-L1,positive_correlate
+Gene OPA1;Gene SIRT3,positive_correlate
+Gene MEG3;Gene METTL3,negative_correlate
+Gene tba-1;Gene EFA-6,positive_correlate
+Gene LMP2A;Gene WAPL,negative_correlate
